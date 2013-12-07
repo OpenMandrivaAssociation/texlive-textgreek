@@ -6,7 +6,7 @@
 # catalog-version v0.7
 Name:		texlive-textgreek
 Version:	v0.7
-Release:	5
+Release:	6
 Summary:	Upright greek letters in text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textgreek
