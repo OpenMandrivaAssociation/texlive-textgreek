@@ -1,12 +1,6 @@
-# revision 24282
-# category Package
-# catalog-ctan /macros/latex/contrib/textgreek
-# catalog-date 2011-10-13 09:47:13 +0200
-# catalog-license lppl
-# catalog-version v0.7
 Name:		texlive-textgreek
-Version:	v0.7
-Release:	10
+Version:	0.7
+Release:	1
 Summary:	Upright greek letters in text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textgreek
@@ -48,16 +42,3 @@ Use upright greek letters as text symbols, e.g. \textbeta.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> v0.7-2
-+ Revision: 756786
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> v0.7-1
-+ Revision: 719717
-- texlive-textgreek
-- texlive-textgreek
-- texlive-textgreek
-
