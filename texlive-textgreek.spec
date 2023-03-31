@@ -1,6 +1,6 @@
 Name:		texlive-textgreek
 Version:	44192
-Release:	1
+Release:	2
 Summary:	Upright greek letters in text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textgreek
